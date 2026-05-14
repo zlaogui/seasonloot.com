@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://seasonloot.com">🌐 Live Demo — seasonloot.com</a>
+  <a href="https://seasonloot.com/en-gb/">🌐 Live Demo — seasonloot.com</a>
 </p>
 
 <p align="center">
-  <b>English</b> | <a href="README.zh-CN.md">简体中文</a> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.ko.md">한국어</a> | <a href="README.de.md">Deutsch</a> | <a href="README.fr.md">Français</a> | <a href="README.es.md">Español</a> | <a href="README.es-MX.md">Español (LATAM)</a> | <a href="README.pt-BR.md">Português</a> | <a href="README.it.md">Italiano</a> | <a href="README.ru.md">Русский</a> | <a href="README.en-GB.md">English (UK)</a>
+  <a href="README.md">English</a> | <a href="README.zh-CN.md">简体中文</a> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.ko.md">한국어</a> | <a href="README.de.md">Deutsch</a> | <a href="README.fr.md">Français</a> | <a href="README.es.md">Español</a> | <a href="README.es-MX.md">Español (LATAM)</a> | <a href="README.pt-BR.md">Português</a> | <a href="README.it.md">Italiano</a> | <a href="README.ru.md">Русский</a> | <b>English (UK)</b>
 </p>
 
 ---
@@ -22,15 +22,15 @@
 
 SeasonLoot is a free loot table browser for **World of Warcraft: The War Within — Midnight Season 1**. Pick your class, filter by the stats you need, and instantly see every piece of gear available to you this season — where it drops, what stats it has, and what item level it comes at.
 
-No addon to install. No account to create. Just open [seasonloot.com](https://seasonloot.com) and start planning your gear.
+No addon to install. No account to create. Just open [seasonloot.com](https://seasonloot.com/en-gb/) and start planning your gear.
 
 ## All 13 Classes
 
 Every WoW class has a dedicated loot page showing the full gear list for the current season:
 
-[Warrior](https://seasonloot.com/warrior/) · [Paladin](https://seasonloot.com/paladin/) · [Hunter](https://seasonloot.com/hunter/) · [Rogue](https://seasonloot.com/rogue/) · [Priest](https://seasonloot.com/priest/) · [Death Knight](https://seasonloot.com/deathknight/) · [Shaman](https://seasonloot.com/shaman/) · [Mage](https://seasonloot.com/mage/) · [Warlock](https://seasonloot.com/warlock/) · [Monk](https://seasonloot.com/monk/) · [Druid](https://seasonloot.com/druid/) · [Demon Hunter](https://seasonloot.com/demonhunter/) · [Evoker](https://seasonloot.com/evoker/)
+[Warrior](https://seasonloot.com/en-gb/warrior/) · [Paladin](https://seasonloot.com/en-gb/paladin/) · [Hunter](https://seasonloot.com/en-gb/hunter/) · [Rogue](https://seasonloot.com/en-gb/rogue/) · [Priest](https://seasonloot.com/en-gb/priest/) · [Death Knight](https://seasonloot.com/en-gb/deathknight/) · [Shaman](https://seasonloot.com/en-gb/shaman/) · [Mage](https://seasonloot.com/en-gb/mage/) · [Warlock](https://seasonloot.com/en-gb/warlock/) · [Monk](https://seasonloot.com/en-gb/monk/) · [Druid](https://seasonloot.com/en-gb/druid/) · [Demon Hunter](https://seasonloot.com/en-gb/demonhunter/) · [Evoker](https://seasonloot.com/en-gb/evoker/)
 
-Each page lists **every equippable item** for that class, organized by slot or by source. You can narrow it down further by spec — for example, Brewmaster / Windwalker / Mistweaver for Monk.
+Each page lists **every equippable item** for that class, organised by slot or by source. You can narrow it down further by spec — for example, Brewmaster / Windwalker / Mistweaver for Monk.
 
 ## What You Can Look Up
 
@@ -42,18 +42,18 @@ Head, Neck, Shoulder, Cloak, Chest, Wrist, Hands, Waist, Legs, Feet, Ring, Trink
 
 See exactly where each item drops:
 
-- **11 Dungeons** — Seat of the Triumvirate, Skyreach, Mythsara Caverns, Windrunner's Tower, Pit of Saron, Magisters' Terrace, Node Shinas, Algeth'ar Academy, Dream Rift, Void Spire, March on Quel'Danas
-- **Raid bosses** — Complete raid loot tables for the current tier
+- **8 Dungeons** — Seat of the Triumvirate, Skyreach, Mythsara Caverns, Windrunner's Tower, Pit of Saron, Magisters' Terrace, Node Shinas, Algeth'ar Academy
+- **3 Raids** — Dream Rift, Void Spire, March on Quel'Danas
 - **Tier sets** — All 9 tier set pieces for every class, including 2-piece and 4-piece set bonuses per spec
 
 ### What Each Item Shows
 
 Every item on SeasonLoot displays:
 
-- **Item name** — Official Blizzard-localized name in your selected language
+- **Item name** — Official Blizzard-localised name in your selected language
 - **Equipment slot** — Head, Chest, Weapon, Trinket, etc.
 - **Secondary stats with exact values** — e.g., Critical Strike 82 / Versatility 48
-- **Armor type** — Cloth, Leather, Mail, or Plate
+- **Armour type** — Cloth, Leather, Mail, or Plate
 - **Item level** — Dungeon drops (ilvl 246), Raid drops (ilvl 269–276), Tier pieces (ilvl 263)
 - **Drop source** — The specific dungeon, raid boss, or tier set
 - **Weapon subtype** — Staff, Polearm, One-Hand Sword, Fist Weapon, One-Hand Mace, One-Hand Axe, Off-Hand, etc.
@@ -75,10 +75,10 @@ Don't scroll through hundreds of items. Use the built-in filters to find exactly
 
 **Example:** Playing a Haste/Mastery Windwalker Monk? Select the Windwalker spec, check Haste and Mastery, and instantly see only the items that match — along with the exact dungeon or raid boss you need to farm.
 
-## Favorites & Sharing
+## Favourites & Sharing
 
-- Tap the **heart icon** on any item to save it to your favorites list
-- Your favorites persist between visits — stored locally in your browser, no login required
+- Tap the **heart icon** on any item to save it to your favourites list
+- Your favourites persist between visits — stored locally in your browser, no login required
 - Use **"Ask a Friend"** to generate a shareable link of your gear list and send it to guildmates
 
 ## 12 Languages with Official Item Names
@@ -111,7 +111,7 @@ Item names in each language are sourced from **Blizzard's official Battle.net AP
 The current dataset covers the complete Midnight Season 1 (Patch 4.2.x) loot pool:
 
 - **2,000+ items** across all 13 classes
-- **11 Mythic+ season dungeons** with full boss loot tables
+- **8 Mythic+ season dungeons** with full boss loot tables
 - **3 raid instances** with all boss drops at Heroic difficulty
 - **117 tier set pieces** across 13 classes with per-spec set bonuses
 - **Accurate item levels** — Dungeon ilvl 246, Raid ilvl 269–276, Tier ilvl 263
@@ -123,7 +123,7 @@ Data is updated whenever Blizzard makes item changes or a new season launches.
 
 - **Dungeon runners** — Know which keys to push and which bosses to target for your upgrades
 - **Raiders** — Find out which bosses drop your Best in Slot (BiS) gear before raid night
-- **Alt levelers** — Quickly see what's available for a class you're gearing up for the first time
+- **Alt levellers** — Quickly see what's available for a class you're gearing up for the first time
 - **Build planners** — Filter by your desired stat priority to plan an optimal gear set
 - **Casual players** — Browse the current season's gear without navigating complex database sites
 - **International players** — Look up gear in your own language with official Blizzard translations
@@ -135,5 +135,5 @@ SeasonLoot runs entirely in your browser. There's nothing to download, no addon 
 ---
 
 <p align="center">
-  <a href="https://seasonloot.com"><strong>seasonloot.com</strong></a> — Made for the WoW community
+  <a href="https://seasonloot.com/en-gb/"><strong>seasonloot.com</strong></a> — Made for the WoW community
 </p>
